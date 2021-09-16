@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import Home from './Components/Home';
+import Tenants from './Components/Tenants';
+import {Route,Switch} from 'react-router-dom'
 function App() {
+  
+
+/*flow of program files visit the code in below given order 
+1: home.js
+2: Header.js
+3: PropertyCards.js
+4: Tenants.js
+5: Footer.js
+*/
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/Tenants" component={Tenants} />
+      </Switch>
     </div>
   );
 }

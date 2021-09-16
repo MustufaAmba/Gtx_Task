@@ -1,3 +1,6 @@
+This webiste is a tenants managing web app name GTX Technologies where property details are viewed and one can mange tenants i.e one can edit, add and delete from the property
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

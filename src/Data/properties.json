@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "first_name": "Ajay",
+      "last_name": "Parmar",
+      "email": "hnguyen0@bloomberg.com",
+      "image_1":"https://mediacdn.99acres.com/media1/15717/6/314346196O-1629816715549.jpg",
+      "image_2":"https://mediacdn.99acres.com/media1/15717/6/314346240O-1629816754676.jpg",
+      "image_3":"https://mediacdn.99acres.com/media1/15717/6/314346248O-1629816755523.jpg",
+      "BHK":"2",
+      "plotArea":"200",
+      "agreement":"11",
+      "rent":"8000",
+      "MaxPepoleAllowed":"4",
+      "availableFor":"All",
+      "contactNumber":"9924891236",
+      "propertyName":"Sai Avenue",
+      "address":"Near SV Patel Road Dahod"
+
+    }, {
+      "id": 2,
+      "first_name": "Sanjay",
+      "last_name": "Rathod",
+      "email": "cfowler1@gnu.org",
+      "image_1":"https://mediacdn.99acres.com/media1/15838/2/316762526O-1630936863336.jpg",
+      "image_2":"https://mediacdn.99acres.com/media1/15838/2/316762524O-1630937197005.jpeg",
+      "image_3":"https://mediacdn.99acres.com/media1/15838/2/316762528O-1630936863342.jpg",
+      "BHK":"3",
+      "plotArea":"230",
+      "agreement":"11",
+      "rent":"12000",
+      "MaxPepoleAllowed":"5",
+      "availableFor":"Students",
+      "contactNumber":"8141516738",
+      "propertyName":"Sanjay housing",
+      "address":"Near MG Road Dahod"
+    },
+    {
+      "id": 3,
+      "first_name": "Rakesh",
+      "last_name": "Bijlani",
+      "email": "cfowler1@gnu.org",
+      "image_1":"https://mediacdn.99acres.com/media1/15388/10/307770906O-1626785937708.jpg",
+      "image_2":"https://mediacdn.99acres.com/media1/15388/10/307770910O-1626785937951.jpg",
+      "image_3":"https://mediacdn.99acres.com/media1/15388/10/307770908O-1626785937997.jpg",
+      "BHK":"1",
+      "plotArea":"160",
+      "agreement":"11",
+      "rent":"5000",
+      "MaxPepoleAllowed":"3",
+      "availableFor":"Married",
+      "contactNumber":"9924894560",
+      "propertyName":"LakeView Apartments",
+      "address":"Near LakeView Road Dahod"
+    }
+]

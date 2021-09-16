@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "tenant": 1,
+      "gender": "Female",
+      "firstName": "Sneha",
+      "lastName": "Agrawal",
+      "email": "Sneha@test.com",
+      "phoneNumber":"9714171486",
+      "rentPending":"2 Months"
+    }, {
+      "id": 2,
+      "tenant":1,
+      "gender": "Male",
+      "firstName": "Carlos",
+      "lastName": "Shaw",
+      "email": "Carlos@test.org",
+      "phoneNumber":"9924894563",
+      "rentPending":"1 Month"
+    }, {
+        "id": 3,
+        "tenant":2,
+        "gender": "Male",
+        "firstName": "Mustafa",
+        "lastName": "Fowler",
+        "email": "Mustafa@test.org",
+        "phoneNumber":"3365478952",
+        "rentPending":"All Clear"
+      },
+       {
+        "id": 4,
+        "tenant":3,
+        "gender": "Male",
+        "firstName": "Raj",
+        "lastName": "Malhotra",
+        "email": "Raj@test.org",
+       "phoneNumber":"9924894521",
+       "rentPending":"1 Month"
+      },
+       {
+        "id": 5,
+        "tenant":3,
+        "gender": "Male",
+        "firstName": "Ankit",
+        "lastName": "Ponikar",
+        "email": "Ankit@gnu.org",
+        "phoneNumber":"8141516738",
+        "rentPending":"All Clear"
+      }
+]
